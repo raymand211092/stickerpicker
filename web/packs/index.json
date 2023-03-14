@@ -2,7 +2,8 @@
   "packs": [
     "SigmundFreud.json",
     "BunJoe.json",
-    "Dog_Collection.json"
+    "Dog_Collection.json",
+    "EdwardSnowden.json"
   ],
   "homeserver_url": "https://mx.grupotd.nat.cu"
 }
