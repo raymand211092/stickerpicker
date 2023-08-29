@@ -1,0 +1,10 @@
+{
+  "packs": [
+    "StoryOfLove.json",
+    "ChristmasGingy.json",
+    "Homer_Jay_Simpson.json",
+    "EdwardSnowden.json",
+    "BunJoe.json"
+  ],
+  "homeserver_url": "https://matrix.org"
+}
