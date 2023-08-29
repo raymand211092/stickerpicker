@@ -7,7 +7,8 @@
     "Brick_Man.json",
     "Homer_Jay_Simpson.json",
     "MrZoid.json",
-    "StoryOfLove.json"
+    "StoryOfLove.json",
+    "Config.json"
   ],
   "homeserver_url": "https://mx.grupotd.nat.cu"
 }
